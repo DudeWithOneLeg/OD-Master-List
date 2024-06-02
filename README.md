@@ -2,6 +2,7 @@
 
 Structure: 
 
+```
 id: {
   id,
   url,
@@ -9,3 +10,4 @@ id: {
   text (original text from the reddit post),
   status (reponse code),
 }
+```
